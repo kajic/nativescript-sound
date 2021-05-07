@@ -1,4 +1,4 @@
-import * as fs from 'tns-core-modules/file-system';
+import * as fs from "@nativescript/core/file-system";
 
 class Sound {
   constructor(path_arg) {
